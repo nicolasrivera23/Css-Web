@@ -2,7 +2,7 @@
 * CSS 
 * Se agrega estilo a las etiquetas semánticas
 
-* $${color{#8a2be2}header}$$
+* $${\color{#8a2be2}header}$$
 * $${\color{black}main}$$
 * $${\color{green}section}$$
 * $${\color{black}main}$$
