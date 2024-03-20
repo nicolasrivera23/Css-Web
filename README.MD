@@ -1,4 +1,4 @@
-* Martes 19 de Marzo del 2024
+**Martes 19 de Marzo del 2024**
 * CSS 
 * Se agrega estilo a las etiquetas semánticas
 
