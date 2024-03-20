@@ -5,7 +5,8 @@
 * section color #008000 / green
 * footer color #FF0000 / red
 
-$${\color{#8a2be2}header}$$
-$${\color{black}main}$$
-$${\color{green}section}$$
-$${\color{red}footer}$$
+* $${\color{#8a2be2}header}$$
+* $${\color{black}main}$$
+* $${\color{green}section}$$
+* $${\color{black}main}$$
+* $${\color{red}footer}$$
